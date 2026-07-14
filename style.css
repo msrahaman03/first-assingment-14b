@@ -23,8 +23,29 @@ nav ul ,li{
 .btn{
           background-color: #1D4ED8;
           color: white;
+          width: 200px;
           padding: 10px 20px;
           border: none;
           border-radius: 5px;
           margin-right: 50px;
 }
+
+/* banner style start here */
+.banner{
+      background-image: url(assets/banner.jpg);
+      color:white;
+      height: 700px;
+      text-align: center;
+}
+
+.banner h1{
+      font-size: 80px;
+      padding-top: 100px;
+      font-weight: 900;
+}
+
+.banner .btn{
+      margin: 300px;
+}
+
+/* banner  style end here */
